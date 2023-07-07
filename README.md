@@ -1,2 +1,6 @@
-# Travel-Website-for-Mumbai-NaviMumbai
-We made a website for students who want to explore hidden Tourist places in Mumbai And Navi Mumbai. It is helpful and deciding location to visit which are affordable to the pocket and are overdose to the sense's of a traveller and foodie.
+<h2 align="center">AnyWhereEveryWhere</h2>
+<div align="center">
+<p>A travel website project created using HTML, CSS and JavaScript.</p>
+</div> 
+
+
