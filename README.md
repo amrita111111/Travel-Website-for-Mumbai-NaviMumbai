@@ -3,9 +3,9 @@ This is a Django-based travel web application that allows users to explore place
 ------
 ## Tech Stack
 - Backend: Python, Django
-- Frontend: HTML, CSS, Bootstrap
+- Frontend: HTML, CSS
 - Database: SQLite
-- Tools: VS Code, Git, GitHub
+- Tools: VS Code, GitHub
 -----
 ## Key Features
 -  User authentication system (login/logout)
